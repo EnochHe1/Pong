@@ -1,5 +1,5 @@
 # Pong
-Based on the online Pong game, made for 2 players. The first player to 10 points is the winner.
+Based on the online Pong game, made for 2 players. The first player to 10 points is the winner. Created for a school ICS4U assignment.
 
 https://github.com/EnochHe1/Pong/assets/133233938/0ec4395c-76e1-48f6-8e0a-0a8f451e696a 
 
