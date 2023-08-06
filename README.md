@@ -9,9 +9,9 @@ Above is a (rather poor quality) screen recording of the game in action
 
 Press ```r``` to start the game
 
-Player 1: ```w``` to move up, s to move down.
+Player 1: ```w``` to move up, ```s``` to move down.
 
-Player 2: ```↑``` to move up, ↓ to move down.
+Player 2: ```↑``` to move up, ```↓``` to move down.
 
 
 
